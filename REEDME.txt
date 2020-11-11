@@ -1,0 +1,7 @@
+Se debe de ejecutar el script prueba1.sh
+
+NO MOVER DE LUGAR NINGUNO DE LOS ARCHIVOS DE LA CARPETA ACTUAL
+
+Si se mueven los archivos que esten todos en una misma carpeta
+
+:)
